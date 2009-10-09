@@ -1,0 +1,12 @@
+Lightbulb Release v0.1
+
+Welcome to Lightbulb!
+
+For more information, see http://getlightbulb.blogspot.com
+
+In this repository, you'll find the following directories:
+
+LightbulbDaemon - This is a directory containing the daemon code. Build it with your favorite C compiler. For example, gcc daemon.c -o daemon 
+Note: This daemon expects a device conencted over serial at 9600 baud on a particular /dev/ port. Change this port to match your system, and change the code as necessary to communicate with your hardware. The development hardware used was an Arduino Duemilanove.
+
+LightbulbFirmware - This is a directory containing the firmware code. This firmware is designed to run on an Arduino (the development hardware was an Arduino Duemilanove) connected to a Parralax serial RFID reader. To use this, load up the Firmware.pde file in the Arduino development environment, and send it to your device. More instructions about how to use the Arduino development environment can be found on arduino.cc
