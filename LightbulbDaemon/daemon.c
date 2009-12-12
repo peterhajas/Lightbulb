@@ -17,7 +17,7 @@ Originally written by Tod E. Kurt, the copyright has been preserved below.
  
 Thanks to Sean O'Sullivan for the sponsorship. 
 
- //Original Copyright:
+ //Original Copyright, check out Tod's site, he's a very smart guy!
  * Created 5 December 2006
  * Copyleft (c) 2006, Tod E. Kurt, tod@todbot.com
  * http://todbot.com/blog/
